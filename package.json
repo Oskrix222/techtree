@@ -1,0 +1,13 @@
+{
+  "name": "techtreesolutions-strona",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Strona TechTree Solutions sp. z o.o. — statyczny one page (podgląd lokalny przez Vite)",
+  "scripts": {
+    "dev": "vite --host --open",
+    "preview": "vite preview --host --open"
+  },
+  "devDependencies": {
+    "vite": "5.4.10"
+  }
+}
